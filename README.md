@@ -4,6 +4,8 @@
 `Windows, MAC, Linux`
 
 ------------
+![MobileRecommendationImage](https://user-images.githubusercontent.com/55269410/115337807-4eee5600-a1bf-11eb-9607-2ba7d41cbb7c.png)
+------------
 #### Description: 
 - This was the mini project that I made for college👨🏻‍💻. 
 - The goal was to make use of `Python` and data manipulation using python liabraries such as `pandas`, `numpy` and `sklearn`.
